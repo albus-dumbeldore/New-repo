@@ -1,1 +1,1 @@
-console.log("Just checking")
+console.log("Now er are at greeter")
